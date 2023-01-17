@@ -2,8 +2,8 @@
 #EXT-X-VERSION:7
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="audio_3",DEFAULT=YES,URI="https://d1asa0nzfd3bqt.cloudfront.net/groupc/live/7d5fc7fc-ce07-49e6-6ee4-bfddde9c8ada/live.isml/live-audio_track_1_1_eng=64000.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=2432399,RESOLUTION=1280x720,CODECS="avc1.64001f,mp4a.40.2",AUDIO="group_A1"
-https://d1asa0nzfd3bqt.cloudfront.net/groupc/live/7d5fc7fc-ce07-49e6-6ee4-bfddde9c8ada/live.isml/live-video_track=4000000.m3u8
+https://d1asa0nzfd3bqt.cloudfront.net/groupc/live/7d5fc7fc-ce07-49e6-6ee4-bfddde9c8ada/live.isml/live-video_track=2000000.m3u8?
 #EXT-X-STREAM-INF:BANDWIDTH=1332399,RESOLUTION=858x480,CODECS="avc1.64001e,mp4a.40.2",AUDIO="group_A1"
-https://d1asa0nzfd3bqt.cloudfront.net/groupc/live/7d5fc7fc-ce07-49e6-6ee4-bfddde9c8ada/live.isml/live-video_track=4000000.m3u8
+https://d1asa0nzfd3bqt.cloudfront.net/groupc/live/7d5fc7fc-ce07-49e6-6ee4-bfddde9c8ada/live.isml/live-video_track=600000.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=832399,RESOLUTION=426x240,CODECS="avc1.640015,mp4a.40.2",AUDIO="group_A1"
-https://d1asa0nzfd3bqt.cloudfront.net/groupc/live/7d5fc7fc-ce07-49e6-6ee4-bfddde9c8ada/live.isml/live-video_track=4000000.m3u8
+https://d1asa0nzfd3bqt.cloudfront.net/groupc/live/7d5fc7fc-ce07-49e6-6ee4-bfddde9c8ada/live.isml/live-video_track=300000.m3u8
