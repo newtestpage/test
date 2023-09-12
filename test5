@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="group_A1",NAME="audio_3",DEFAULT=YES,URI="https://events-live.apple.com/cmaf/live/2018335/1008dwcbfxldjkzvqhpfrdyqjsdcajvsvouttftmadmyfymn/avc_hd_audio_en_2ch_aac_128.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=6000000,RESOLUTION=1920x1080,CODECS="avc1.64001f,mp4a.40.2",AUDIO="group_A1"
+https://events-live.apple.com/cmaf/live/2018335/1008dwcbfxldjkzvqhpfrdyqjsdcajvsvouttftmadmyfymn/avc_hd_1080p_6000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1280x720,CODECS="avc1.64001e,mp4a.40.2",AUDIO="group_A1"
+https://events-live.apple.com/cmaf/live/2018335/1008dwcbfxldjkzvqhpfrdyqjsdcajvsvouttftmadmyfymn/avc_hd_720p_4500.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1280x720,CODECS="avc1.64001e,mp4a.40.2",AUDIO="group_A1"
+https://events-live.apple.com/cmaf/live/2018335/1008dwcbfxldjkzvqhpfrdyqjsdcajvsvouttftmadmyfymn/avc_hd_720p_3000.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1200000,RESOLUTION=640x360,CODECS="avc1.640015,mp4a.40.2",AUDIO="group_A1"
+https://events-live.apple.com/cmaf/live/2018335/1008dwcbfxldjkzvqhpfrdyqjsdcajvsvouttftmadmyfymn/avc_hd_360p_1200.m3u8
